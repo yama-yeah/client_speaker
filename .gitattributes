@@ -1,0 +1,2 @@
+julius/dic/model/dnn/logicalTri filter=lfs diff=lfs merge=lfs -text
+julius/dic/model/dnn/logicalTri.bin filter=lfs diff=lfs merge=lfs -text
